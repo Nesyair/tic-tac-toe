@@ -90,3 +90,7 @@ header {
 #ready-player1 {
     background-color: red;
 }
+
+.disabled-div {
+    pointer-events: none;
+}
